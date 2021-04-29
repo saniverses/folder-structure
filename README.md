@@ -6,15 +6,15 @@
 
 .
 +-- http_sowa_http_profile_name <br />
-|   +--http_proxy_services <br />
-|   |   +--http_sowa_http_hworld_http_proxy.yml <br />
-|   +--resources <br />
-|   |   +--schemes <br />
-|   |   |   +--service1_request_validation_scheme.json <br />
-|   |   |   +--service1_response_validation_scheme.json <br />
-|   |   |   ... <br />
-|   |   +--error_pattern_file.json <br />
-|   |   +--error_rules.yml <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;+--http_proxy_services <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--http_sowa_http_hworld_http_proxy.yml <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;+--resources <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--schemes <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--service1_request_validation_scheme.json <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--service1_response_validation_scheme.json <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;... <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--error_pattern_file.json <br />
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;+--error_rules.yml <br />
 
 
 
